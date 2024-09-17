@@ -9,14 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ericblade/quagga2": "^1.8.4",
+    "@zxing/browser": "^0.1.5",
+    "@zxing/library": "^0.21.3",
+    "jsqr": "^1.4.0",
+    "next": "14.2.11",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.11"
+    "react-media-devices": "^1.1.5",
+    "react-use": "^17.5.1",
+    "react-zxing": "^2.0.2"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
-    "@types/react-dom": "^18"
+    "@types/react-dom": "^18",
+    "typescript": "^5"
   }
 }
